@@ -35,6 +35,6 @@ This repository contains a collection of beginner to intermediate-level **data a
 Hi! I'm Sayan Mondal, a data enthusiast and aspiring analyst from Kolkata, India.
 I love building projects that turn raw data into meaningful insights.
 
-    📷 [Instagram](https://instagram.com/analystsayan)
+[📷Instagram](https://instagram.com/analystsayan)
 
-    💼 [LinkedIn](https://linkedin.com/in/analystsayan)
+ [💼LinkedIn](https://linkedin.com/in/analystsayan)
