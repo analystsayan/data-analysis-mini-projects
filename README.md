@@ -17,8 +17,8 @@ This repository contains a collection of beginner to intermediate-level **data a
 
 | Project Name                | Description                                                |
 |-----------------------------|------------------------------------------------------------|
-| `01-sales-insights/`        | Major KPIs, rev trend, customer and market anaysis         |
-| `02-excel-dashboard/`       | Category, Sales vs orders, channel and month-wise filter   |
+| `01-atliq-tech-sales-insights-with-powerbi/`        | Major KPIs, rev trend, customer and market anaysis         |
+| `02-vrinda-store-excel-dashboard/`       | Category, Sales vs orders, channel and month-wise filter   |
 | `...`                       | More coming soon...                                        |
 
 ---
@@ -34,7 +34,7 @@ This repository contains a collection of beginner to intermediate-level **data a
 ## 🙋‍♂️ About Me
 Hi! I'm Sayan Mondal, a data enthusiast and aspiring analyst from Kolkata, India.
 I love building projects that turn raw data into meaningful insights.
-
-📷 [Instagram](https://instagram.com/analystsayan)
-
 💼 [LinkedIn](https://linkedin.com/in/analystsayan)
+
+View All my projects
+🔗[Website](https://sayanmondal.in)
